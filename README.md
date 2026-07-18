@@ -16,10 +16,11 @@
 <br>
 
 <!-- About Me Section -->
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
 <div align="left">
   
-  ## 📖 About Me
-  *Telematics Engineering student at IPN with a strong focus on software development, network architecture, and backend integration. Passionate about building robust, scalable solutions through microservices and clean code. Proven ability to deliver in fast-paced environments like hackathons and academic research projects[cite: 1, 2].*
+  *Telematics Engineering student at IPN with a strong focus on software development, network architecture, and backend integration[cite: 1, 2]. Passionate about building robust, scalable solutions through microservices and clean code[cite: 1, 2]. Proven ability to deliver in fast-paced environments like hackathons and academic research projects[cite: 1, 2].*
 
   - 🎓 **Education:** Telematics Engineering at IPN (Expected Graduation: Feb 2027)[cite: 1, 2].
   - 🚀 **Projects:** NeoWallet P2P, OfficeSpace (Microservices), and UAV Water Monitoring[cite: 1, 2].
