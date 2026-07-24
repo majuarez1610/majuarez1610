@@ -1,191 +1,460 @@
-<!-- Divider -->
+<div align="center">
+
+
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=850&lines=root%40majuarez1610%3A~%24+whoami;Mario+Alexis+Ju%C3%A1rez+Anguiano;Backend+Developer;Microservices+Enthusiast;Networking+Explorer;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG"/>
+
+## 🎓 Telematics Engineering Student
+### UPIITA • Instituto Politécnico Nacional
+
+**Backend Developer • Software Architecture • Microservices • Networks**
+
+<br>
+
+<a href="https://linkedin.com/in/alexis-juarez06">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:anguiano.mario161003@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/majuarez1610">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://wa.me/525539106492">
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=majuarez1610&style=for-the-badge&color=39FF14" />
+
+<img src="https://img.shields.io/github/followers/majuarez1610?style=for-the-badge&logo=github&color=181717"/>
+
+<img src="https://img.shields.io/github/stars/majuarez1610?style=for-the-badge&logo=github&color=f1c40f"/>
+
+</div>
+
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Welcome Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="100%" alt="Header Banner" />
+<!-- Sección: Información personal -->
+# 🖥️ ~/about-me
 
-<br/><br/>
-
-<h1> 🆆🅴🅻🅲🅾🅼🅴  🆃🅾  🅼🆈  🅳🅴🆅  🆂🅿🅰🅲🅴 </h1>
-
-<!-- Brief Introduction -->
-<p align="center">
-  <b>Mario Alexis Juárez Anguiano</b><br>
-  🎓 <i>Telematics Engineering Student @ IPN (UPIITA)</i><br>
-  🚀 <i>Backend Developer | Network Explorer</i>
-</p>
-
-<!-- Socials Bar -->
-<div data-importer="socials" align="center">
-  <a href="https://linkedin.com/in/alexis-juarez06" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:anguiano.mario161003@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://github.com/majuarez1610">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://wa.me/525539106492" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="35" alt="whatsapp logo" />
-  </a>
-</div>
-
-</div>
-
----
-
-## 👨‍💻 ⚡ ⲇⲃⲟⲩⲧ ⲙⲉ (About Me)
-
-```text
-  _   _  _____ _     _     ____  _ 
- | | | || ____| |   | |   / __ \| |
- | |_| ||  _| | |   | |  | |  | | |
- |  _  || |___| |___| |__| |__| |_|
- |_| |_||_____|_____|_____\____/(_)
+```bash
+$ cat about_me.txt
 ```
+
+```yaml
+Name:
+  Mario Alexis Juárez Anguiano
+
+Education:
+  Telematics Engineering
+  UPIITA - Instituto Politécnico Nacional
+
+Focus:
+  - Backend Development
+  - Software Architecture
+  - Microservices
+  - Cloud Computing
+  - Computer Networks
+
+Leveling up:
+  - Spring Boot
+  - Docker
+  - Kubernetes
+  - Distributed Systems
+
+Passions:
+  - Designing scalable APIs
+  - Solving complex backend problems
+  - Building networking solutions
+  - Learning new technologies
+
+```
+
+<br> 
+<br>
+
+## 🚀 Highlights
 
 * 🎓 **Telematics Engineering Student** at UPIITA - IPN, passionate about software architecture, databases, and backend development.
 * 🏆 **Hackathon Builder:** Developed MVPs such as **NeoWallet** (P2P Payments) and **OfficeSpace** (Workspace Management using IBM TechStack).
 * 🛸 **Tech Innovation:** Contributor to the Water Quality Monitoring System with UAV (Drones) in collaboration with SECTEI CDMX.
 * 📡 **Networking Foundations:** Hands-on experience in network architecture (TCP/IP, OSPF, VLANs) and telecom integration (Twilio Voice, VoIP systems).
-* 🎯 **Focused on:** Designing scalable, robust, and elegant microservices.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Sección: Tecnologías -->
+# 🛠️ ~/tech-stack
 
-## 🛠️ 🧰 ⲧⲉⲥⲏ ⲇⲅⲕⲉⲛⲇ (Tech Stack)
-
-<br/>
-
-### 🧠 1. ⚡ ⲧⲏⲉ ⲥⲟⲅⲉ (Core Languages)
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
-</div>
-
-<br/>
-
-### ⚙️ 2. 🛡️ ⲃⲇⲥⲕⲉⲛⲇ ⲉⲛⲁⲓⲛⲉⲥ (Backend Architecture)
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
-</div>
-
-<br/>
-
-### 🎨 3. 🖥️ ⲓⲛⲧⲉⲅϯⲇⲥⲉ & ϯⲅⲟⲛⲧ (Frontend Visuals)
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-</div>
-
-<br/>
-
-### 🗄️ 4. 💾 ⲇⲇⲧⲇ ⲩⲇⲩⲡⲧⲥ (Databases & Storage)
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
-</div>
-
-<br/>
-
-### 🐳 5. 🚀 ⲇⲉⲩⲟⲡⲥ & ⲉⲛⲩⲓⲅⲟⲛⲙⲉⲛⲧⲥ (DevOps & Environments)
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo" />
-</div>
-
-<br/>
-
-### 🛠️ 6. 🧰 ⲇⲉⲩ ⲧⲟⲟⲡⲥ & ⲥⲏⲉⲡⲡⲥ (Tools & Workstations)
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-</div>
-
----
-
-## 👾 🎮 ⲡⲇⲥⲙⲇⲛ ⲥⲟⲛⲧⲅⲓⲃⲩⲧⲓⲟⲛⲥ (Activity)
+```bash
+$ tree skills/
+```
 
 <div align="center">
-  <picture data-importer="pacman">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/majuarez1610/majuarez1610/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/majuarez1610/majuarez1610/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/majuarez1610/majuarez1610/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
-  </picture>
+
+## 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,matlab,bash&perline=8" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## 🚀 Backend Development
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask,maven,gradle&perline=7" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&perline=5" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&perline=4" />
+
+<p>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## ☁️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,nginx&perline=6" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## 🖥️ Operating Systems
+
+<img src="https://skillicons.dev/icons?i=linux,fedora,ubuntu&perline=3" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## 🔧 Tools & IDEs
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman,githubactions&perline=4" />
+
+<p>
+<img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## 📡 Networking
+
+<p>
+
+<img src="https://img.shields.io/badge/TCP/IP-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OSPF-EA4335?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/VLANs-34A853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/VoIP-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
+
+</p>
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 📈 ⲁⲓⲧⲏⲩⲃ ⲥⲧⲇⲧⲓⲥⲧⲓⲥⲥ (Stats)
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/majuarez1610/majuarez1610/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="165" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/majuarez1610/majuarez1610/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="165" alt="languages graph" />
-</div>
+<!-- Sección: Aprendizaje -->
+# 📚 ~/currently-learning
 
----
+```bash
+$ cat roadmap.txt
+```
 
-## 🎵 🎧 ⲥⲩⲅⲅⲉⲛⲧⲡⲩ ⲩⲓⲃⲓⲛⲇ ⲧⲟ (Spotify Vibes)
+```text
+✔ Java
+✔ Spring Boot
+✔ REST APIs
+✔ SQL Databases
+✔ Docker
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/31w5hclsz3kg3eiwwqv7kdwegyiu" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w5hclsz3kg3eiwwqv7kdwegyiu&count=5" alt="Spotify recently played" />
-  </a>
-</div>
+⬆ Kubernetes
+⬆ RabbitMQ
+⬆ Redis
+⬆ AWS
+⬆ CI/CD
+⬆ Clean Architecture
+⬆ Event-Driven Microservices
+```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+<!-- Sección: Proyectos -->
+# 🚀 ~/featured-projects
+
+```bash
+$ ls ~/projects
+```
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Footer GIF" />
-  <br/><br/>
-  <p><i>"Code, Networks & Innovation"</i> 🚀</p>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 💳 **NeoWallet** | Digital wallet for secure peer-to-peer payments | Spring Boot • PostgreSQL • Docker |
+| 🏢 **OfficeSpace** | Workspace management platform built during Hackathon | IBM Cloud • Java • React |
+| 🩺 **MediSys** | Medical appointment management system | Spring Boot • MySQL |
+| 🚁 **Water Monitoring** | UAV-based water quality monitoring system | IoT • Networking • Python |
+
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!-- Estadísticas GitHub -->
+# 📊 ~/github-dashboard
+
+```bash
+$ neofetch --github
+```
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=majuarez1610&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majuarez1610&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=majuarez1610&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!-- Racha de contribuciones -->
+# 🔥 ~/github-streak
+
+```bash
+$ git log --oneline
+```
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=majuarez1610&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!-- Trofeos -->
+# 🏆 ~/achievements
+
+```bash
+$ achievements --list
+```
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=majuarez1610&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!-- Pacman -->
+# 👾 ~/contribution-game
+
+```bash
+$ ./run pacman
+```
+
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/majuarez1610/majuarez1610/pacman-output/pacman-contribution-graph-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/majuarez1610/majuarez1610/pacman-output/pacman-contribution-graph.svg"/>
+
+<img width="100%" src="https://raw.githubusercontent.com/majuarez1610/majuarez1610/pacman-output/pacman-contribution-graph-dark.svg"/>
+
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!-- Snake -->
+# 🐍 ~/snake
+
+```bash
+$ python snake.py
+```
+
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/majuarez1610/majuarez1610/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/majuarez1610/majuarez1610/output/github-contribution-grid-snake.svg"/>
+
+<img width="100%" src="https://raw.githubusercontent.com/majuarez1610/majuarez1610/output/github-contribution-grid-snake-dark.svg"/>
+
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<!-- Spotify -->
+# 🎧 ~/now-playing
+
+```bash
+$ spotify --recently-played
+```
+
+<div align="center">
+
+<a href="https://open.spotify.com/user/31w5hclsz3kg3eiwwqv7kdwegyiu">
+
+<img width="70%" src="https://spotify-recently-played-readme.vercel.app/api?user=31w5hclsz3kg3eiwwqv7kdwegyiu&count=5"/>
+
+</a>
+
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Frase -->
+# 💭 ~/quote-of-the-day
+
+```bash
+$ fortune
+```
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**
+>
+> *— John Johnson*
+
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Filosofía -->
+# 📈 ~/coding-philosophy
+
+```text
+while(alive){
+
+    Learn();
+
+    Build();
+
+    Break();
+
+    Fix();
+
+    Repeat();
+
+}
+```
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Contacto -->
+# 🌎 ~/connect
+
+<div align="center">
+
+<a href="mailto:anguiano.mario161003@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://linkedin.com/in/alexis-juarez06">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/majuarez1610">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://wa.me/525539106492">
+
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
+</a>
+
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="70%" alt="Footer"/>
+
+<br>
+
+```bash
+$ logout
+
+Saving session...
+
+Stopping services...
+
+Disconnecting from GitHub...
+
+Done.
+
+See you in the next commit 👋
+```
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=majuarez1610&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+
 
