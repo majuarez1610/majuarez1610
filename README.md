@@ -284,10 +284,10 @@ $ achievements --list
 
 
 <!-- Pacman -->
-# 👾 ~/contribution-game
+# 🐍 ~/snake
 
 ```bash
-$ ./run pacman
+$ ./run snake
 ```
 
 <div align="center">
@@ -301,6 +301,7 @@ srcset="https://raw.githubusercontent.com/majuarez1610/majuarez1610/pacman-outpu
 srcset="https://raw.githubusercontent.com/majuarez1610/majuarez1610/pacman-output/pacman-contribution-graph.svg"/>
 
 <img width="100%" src="https://raw.githubusercontent.com/majuarez1610/majuarez1610/pacman-output/pacman-contribution-graph-dark.svg"/>
+
 
 </picture>
 
