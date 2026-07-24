@@ -309,32 +309,6 @@ srcset="https://raw.githubusercontent.com/majuarez1610/majuarez1610/pacman-outpu
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<!-- Snake -->
-# 🐍 ~/snake
-
-```bash
-$ python snake.py
-```
-
-<div align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/majuarez1610/majuarez1610/output/github-contribution-grid-snake-dark.svg"/>
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/majuarez1610/majuarez1610/output/github-contribution-grid-snake.svg"/>
-
-<img width="100%" src="https://raw.githubusercontent.com/majuarez1610/majuarez1610/output/github-contribution-grid-snake-dark.svg"/>
-
-</picture>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
 
 <!-- Spotify -->
 # 🎧 ~/now-playing
